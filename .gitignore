@@ -1,0 +1,20 @@
+# Build artifacts
+*.ext4
+*.tar.bz2
+*.rootfs.*
+tmp/
+downloads/
+sstate-cache/
+__pycache__/
+*.pyc
+*.o
+*.so
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
